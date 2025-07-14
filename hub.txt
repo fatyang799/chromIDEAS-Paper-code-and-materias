@@ -1,0 +1,5 @@
+hub chromIDEAS_Chromatin_states
+shortLabel chromIDEAS_CS
+longLabel chromIDEAS_Chromatin_states
+genomesFile genomes.txt
+email yangliu326459@gmail.com

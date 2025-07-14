@@ -1,2 +1,2 @@
 genome hg38
-trackDb trackDb.txt
+trackDb hg38/trackDb.txt

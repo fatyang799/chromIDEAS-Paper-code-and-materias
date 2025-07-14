@@ -1,17 +1,15 @@
 track bigBed1
-priority 1
-type bigBed
 bigDataUrl https://figshare.com/ndownloader/files/56239901
 shortLabel CD34
 longLabel chromIDEAS human CD34+ cells
+type bigBed
 color 255,0,0
 visibility dense
 
 track bigBed2
-priority 2
-type bigBed
 bigDataUrl https://figshare.com/ndownloader/files/56239904
 shortLabel THP1
 longLabel chromIDEAS leukemia THP1 cell line
+type bigBed
 color 0,255,0
 visibility dense
